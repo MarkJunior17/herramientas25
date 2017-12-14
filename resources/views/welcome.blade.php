@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    NAVARRO PABLO JUNIOR RUBEN Ing. DE SISTEMAS
                 </div>
 
                 <div class="links">
